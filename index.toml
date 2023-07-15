@@ -51,6 +51,11 @@ hash = "67078bfddbfe5e948f7bc5dff22681241a080bb6d6b0bd0a444a6c0f4ff1a925"
 metafile = true
 
 [[files]]
+file = "mods/continents.pw.toml"
+hash = "483a98aba26175329afaf252041d05b8c1deb595dcc14fd9a54bb7841a86d028"
+metafile = true
+
+[[files]]
 file = "mods/dungeons-and-taverns.pw.toml"
 hash = "e3804bfe0897d6234fcb2d2c89debae6274d6e0cb9597deb1c5a798fd2afabfe"
 metafile = true
