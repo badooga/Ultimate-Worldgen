@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "LICENSE"
+hash = "7c934cf1049493f3c6689c952f87eaf1270b8b567760a5ffd4d4825f1cd0aee4"
+
+[[files]]
 file = "config/openloader/data/repurposed-structures-better-desert-temples-compat.pw.toml"
 hash = "d8d6dd310cc92d308db3a442442f84927ca5267f56488c1f4b59c18e2748640f"
 metafile = true
@@ -52,17 +56,12 @@ metafile = true
 
 [[files]]
 file = "mods/continents.pw.toml"
-hash = "483a98aba26175329afaf252041d05b8c1deb595dcc14fd9a54bb7841a86d028"
+hash = "7ba8e1cfdb192822dc83291bb8682110f93964bbd7309f17891e74da45ca9403"
 metafile = true
 
 [[files]]
 file = "mods/dungeons-and-taverns.pw.toml"
 hash = "e3804bfe0897d6234fcb2d2c89debae6274d6e0cb9597deb1c5a798fd2afabfe"
-metafile = true
-
-[[files]]
-file = "mods/end-gateway-warps.pw.toml"
-hash = "13b43ff153d700a0c0aa19fcc4170cbf80cbfff462f4581090837e9424ca9904"
 metafile = true
 
 [[files]]
