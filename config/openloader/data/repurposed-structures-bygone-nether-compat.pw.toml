@@ -1,0 +1,13 @@
+name = "Repurposed Structures - Bygone Nether Compat"
+filename = "Repurposed_Structures-Bygone_Nether_v1.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/8Xv7wkWd/versions/3zg2nQr7/Repurposed_Structures-Bygone_Nether_v1.zip"
+hash-format = "sha1"
+hash = "a7fce2f43ead8d58a869ab0c166a9c22cb243526"
+
+[update]
+[update.modrinth]
+mod-id = "8Xv7wkWd"
+version = "3zg2nQr7"
