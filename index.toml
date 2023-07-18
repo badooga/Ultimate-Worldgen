@@ -51,7 +51,7 @@ metafile = true
 
 [[files]]
 file = "mods/bigger-better-end-cities.pw.toml"
-hash = "67078bfddbfe5e948f7bc5dff22681241a080bb6d6b0bd0a444a6c0f4ff1a925"
+hash = "4ac620892c1ab95720901aff8683ecaa30218a3b4105d3424bfee29d95aa6d06"
 metafile = true
 
 [[files]]
@@ -61,7 +61,7 @@ metafile = true
 
 [[files]]
 file = "mods/dungeons-and-taverns.pw.toml"
-hash = "e3804bfe0897d6234fcb2d2c89debae6274d6e0cb9597deb1c5a798fd2afabfe"
+hash = "26567686c9226eb0c6fe19fa01047275563b72c5bf26ab1f55f8c3fa2e624df2"
 metafile = true
 
 [[files]]
@@ -86,7 +86,7 @@ metafile = true
 
 [[files]]
 file = "mods/open-loader.pw.toml"
-hash = "149499db347b5a8dc078c74bf1e1dad1e235831698dcf4b85286eaaf091f5f78"
+hash = "ce489ec10a2a6d848d391452aa87d60bab75e9b657ae31ed5d4112269005a7d9"
 metafile = true
 
 [[files]]
