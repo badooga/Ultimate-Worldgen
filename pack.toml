@@ -10,7 +10,7 @@ hash = "3fa0bb591ee9d936808473ee70cbfe758b822a202bbf433956ea6f2ade64759f"
 
 [versions]
 minecraft = "1.20.1"
-quilt = "0.19.3-beta.1"
+quilt = "0.20.0-beta.4"
 
 [options]
 datapack-folder = "config/openloader/data"
