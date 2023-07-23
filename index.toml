@@ -40,7 +40,7 @@ metafile = true
 
 [[files]]
 file = "config/openloader/data/repurposed-structures-config.pw.toml"
-hash = "f0e30f8e9099ae200052872e7813e9b5676e296e408ce12af8910fa49241f5be"
+hash = "3123e4db022ea3c512ef956b6b17ac9f573f1f405bb3c411ec14657975254bd2"
 metafile = true
 
 [[files]]

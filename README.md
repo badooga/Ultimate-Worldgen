@@ -15,16 +15,24 @@ The Continents mod is also included as an optional mod in case you want to make 
 
 <details>
 <summary>New Structures</summary>
-A variety of new structures are added by mods like Dungeons and Taverns and Explorify. Ranging from small illager camps to ominous blackstone spires, these new structures are 
+A variety of new structures are added by mods like Dungeons and Taverns, Explorify and Hopo's Better Mineshafts/Ocean Ruins/Ruined Portals. Ranging from small illager camps to ominous blackstone spires, there is always something new to discover while exploring your world.
 
-Furthermore, variants of existing structures are added via 
+Furthermore, new variants of existing structures are added via the Repurposed Structures mod, adding extra variety to your adventures.
 </details>
 
 <details>
 <summary>Revised Structures</summary>
-A few extra powerful features have been added that make this modpack stand out:
+In addition to adding new structures, the Dungeons and Taverns mod and the YUNG's Better mod series improve many vanilla structures:
 
-- An in-game skin menu that lets you swap your skin without having to use the launcher
-- An in-game downloader/manager for the various [Vanilla Tweaks](https://vanillatweaks.net/) resource packs
-- An optional shared resources feature to sync your keybinds, resource packs, shaders, and other options between instances
+- Ancient Cities
+- Desert Pyramids
+- Dungeons
+- Mineshafts
+- Jungle Temples
+- Nether Fortresses (two variants!)
+- Ocean Monuments
+- Strongholds
+- Witch Huts
+
+Furthermore, compatibility datapacks are used to transform certain structures from Repurposed Structures into the YUNG style.
 </details>
