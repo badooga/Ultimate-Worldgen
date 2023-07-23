@@ -5,6 +5,10 @@ file = "LICENSE"
 hash = "7c934cf1049493f3c6689c952f87eaf1270b8b567760a5ffd4d4825f1cd0aee4"
 
 [[files]]
+file = "config/openloader/data/Repurposed_Structures_Config_Ultimate_Worldgen.zip"
+hash = "12ea013642fa93eae9f1310554badaf54e20f7fe4c052f2227532008734a188e"
+
+[[files]]
 file = "config/openloader/data/repurposed-structures-better-desert-temples-compat.pw.toml"
 hash = "d8d6dd310cc92d308db3a442442f84927ca5267f56488c1f4b59c18e2748640f"
 metafile = true
@@ -32,6 +36,11 @@ metafile = true
 [[files]]
 file = "config/openloader/data/repurposed-structures-bygone-nether-compat.pw.toml"
 hash = "669abb9a710b020a14af57622dc1c7549b218c70db5595a6ba700d432baff1a6"
+metafile = true
+
+[[files]]
+file = "config/openloader/data/repurposed-structures-config.pw.toml"
+hash = "f0e30f8e9099ae200052872e7813e9b5676e296e408ce12af8910fa49241f5be"
 metafile = true
 
 [[files]]

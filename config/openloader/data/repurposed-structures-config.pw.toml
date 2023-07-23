@@ -1,0 +1,13 @@
+name = "Repurposed Structures - Ultimate Worldgen Config"
+filename = "Repurposed_Structures_Config_Ultimate_Worldgen.zip"
+side = "both"
+
+[download]
+url = "https://github.com/badooga/Ultimate-Worldgen/raw/main/config/openloader/data/Repurposed_Structures_Config_Ultimate_Worldgen.zip"
+hash-format = "sha1"
+hash = "2afcc3f16060d7d5907b0559b6e38fc7b83c41a5"
+
+[update]
+[update.modrinth]
+mod-id = "mKaYfrOy"
+version = "E3gUs71c"
