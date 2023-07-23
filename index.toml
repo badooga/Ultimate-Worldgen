@@ -100,6 +100,11 @@ hash = "325aa4698929a3cbc486e956d77411dd5912928cc34c35e7ea63e5590c759053"
 metafile = true
 
 [[files]]
+file = "mods/snow-under-trees-remastered.pw.toml"
+hash = "3e296e373e17d6c4d9e8a914d07b841fcfa4faaefcb1ac00aafd4ac9d71e72aa"
+metafile = true
+
+[[files]]
 file = "mods/steep-surface-fix.pw.toml"
 hash = "b13a0bd64c3822300fe58bc2825c63fa7ea6bb2d1fba7a948ebd70b8e93dac64"
 metafile = true
