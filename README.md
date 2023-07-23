@@ -22,11 +22,12 @@ Furthermore, new variants of existing structures are added via the Repurposed St
 
 <details>
 <summary>Revised Structures</summary>
-In addition to adding new structures, the Dungeons and Taverns mod and the YUNG's Better mod series improve many vanilla structures:
+In addition to adding new structures, mods like Dungeons and Taverns and the YUNG's Better series improve many vanilla structures:
 
 - Ancient Cities
 - Desert Pyramids
 - Dungeons
+- End Cities
 - Mineshafts
 - Jungle Temples
 - Nether Fortresses (two variants!)
