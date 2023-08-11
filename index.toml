@@ -44,6 +44,11 @@ hash = "3123e4db022ea3c512ef956b6b17ac9f573f1f405bb3c411ec14657975254bd2"
 metafile = true
 
 [[files]]
+file = "config/openloader/data/the-bastion-overhaul.pw.toml"
+hash = "984c3d06f5995c0db2870764ca344a85d8a9be28e07fff289d82da3e7b7cd65b"
+metafile = true
+
+[[files]]
 file = "mods/amplified-nether.pw.toml"
 hash = "730280bd809ddbe339b1ec0d85394fdcb8a1558187de2e33b7045f63b1fc1d69"
 metafile = true
@@ -85,7 +90,7 @@ metafile = true
 
 [[files]]
 file = "mods/nullscape.pw.toml"
-hash = "c2e46d52c71471e9f1c911fc5f29ae3b777d0b77a55795b1e1e5c69f84a7f8d7"
+hash = "be14d9e96b119117afce2c77700bcae11d21cdc276471b54bbf3cf89496e2060"
 metafile = true
 
 [[files]]
@@ -95,7 +100,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "be8073079bf41847c3aa1fb80c9941fa52b8c0ae39eb44a1475618d31c33e1d9"
+hash = "affe1dbede9008f5e03cdf764b4c7a910fe7b9062dbeeb82d99e2497dc8603d8"
 metafile = true
 
 [[files]]
@@ -115,7 +120,7 @@ metafile = true
 
 [[files]]
 file = "mods/tectonic.pw.toml"
-hash = "87616c7a3467e54af078422dd46aa330dcb9df1ee20065d869776deed6984e79"
+hash = "c9072b33298e95459c644344c8f8e7317a2f503a469e24bf51e63dca9c560db1"
 metafile = true
 
 [[files]]

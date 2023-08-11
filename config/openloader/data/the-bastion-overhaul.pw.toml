@@ -1,0 +1,13 @@
+name = "The Bastion Overhaul"
+filename = "thebastionoverhaul-v1-0.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/fQ0VDbrU/versions/JJVSuoLO/thebastionoverhaul-v1-0.zip"
+hash-format = "sha1"
+hash = "36647637efe524dd163ffec08621279237a54225"
+
+[update]
+[update.modrinth]
+mod-id = "fQ0VDbrU"
+version = "JJVSuoLO"
