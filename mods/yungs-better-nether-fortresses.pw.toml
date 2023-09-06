@@ -1,13 +1,13 @@
 name = "YUNG's Better Nether Fortresses"
-filename = "YungsBetterNetherFortresses-1.19.4-Fabric-1.2.0.jar"
+filename = "YungsBetterNetherFortresses-1.20-Fabric-2.0.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/Z2mXHnxP/versions/tS9cnHTd/YungsBetterNetherFortresses-1.19.4-Fabric-1.2.0.jar"
+url = "https://cdn.modrinth.com/data/Z2mXHnxP/versions/YouhzPUf/YungsBetterNetherFortresses-1.20-Fabric-2.0.2.jar"
 hash-format = "sha1"
-hash = "f5835e3508f1195d6a9cd78a5aa9b730781f388b"
+hash = "ff9989227e01f44143c83dcc5de91023ea72e1cf"
 
 [update]
 [update.modrinth]
 mod-id = "Z2mXHnxP"
-version = "tS9cnHTd"
+version = "YouhzPUf"
