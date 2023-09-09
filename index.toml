@@ -150,6 +150,11 @@ hash = "65fbc5e41940f2b86c7da539eed12a66a842d1c012b031319c44e70a40b5e7c2"
 metafile = true
 
 [[files]]
+file = "mods/yungs-better-jungle-temples.pw.toml"
+hash = "66b584c3778acfa75d882bbbb729e7e099ce8060c3b4ec62fe84af8aa31ad9f0"
+metafile = true
+
+[[files]]
 file = "mods/yungs-better-mineshafts.pw.toml"
 hash = "4dcb6f8548d695dd7335fbc7156ee7143ebda05c06d32aaeecd5f4522a885da6"
 metafile = true
