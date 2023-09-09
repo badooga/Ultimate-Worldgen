@@ -1,12 +1,12 @@
 name = "Ultimate Worldgen"
 author = "badooga"
-version = "1.1.0"
+version = "1.1.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "07c38ca8d36d92f981635def060bb1bb596a368c549219312d4f7b928c1a6c54"
+hash = "bf709c74668996d5e53ff8e4b2e90160f6ac95fbd85c21fcec30803a05cf44fd"
 
 [versions]
 minecraft = "1.20.1"

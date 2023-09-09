@@ -85,6 +85,11 @@ hash = "69b29c3f6cc0937bf85b64c616e4cc799938707629991f2e51d71cb1ef45ac45"
 metafile = true
 
 [[files]]
+file = "mods/midnightlib.pw.toml"
+hash = "50149a97b2d959bfac8e1c377fdab49fc52f1439d004b1ac1c26a3a7f790e044"
+metafile = true
+
+[[files]]
 file = "mods/more-fossils.pw.toml"
 hash = "fe9e1163d2b65e146fa12a95ee7ce200441ba23042cb2fd8a46b97c047f77fe1"
 metafile = true
