@@ -11,22 +11,22 @@ metafile = true
 
 [[files]]
 file = "config/openloader/data/repurposed-structures-better-dungeons-compat.pw.toml"
-hash = "090d34c4b3aa77fd11eacea4ea2ba002752af676a98de65d2f965add7262244a"
+hash = "e6731c340e43f9136adff12011c1459b8cc4f4221433e6c8fcc2de287b30e196"
 metafile = true
 
 [[files]]
 file = "config/openloader/data/repurposed-structures-better-ocean-monuments-compat.pw.toml"
-hash = "31be6fb1517d90150e595dd46ed4168dc362af8efe9e1a6b2ee1c4cb0a6d6e29"
+hash = "84b2691e7ab61b8df1d50ca0b80c302733eec44b397e933e83176dcb56a43182"
 metafile = true
 
 [[files]]
 file = "config/openloader/data/repurposed-structures-better-strongholds-compat.pw.toml"
-hash = "31357651d409b1b9906dd5db07e1bffdbdb496b98aa68234e37885ea08f71590"
+hash = "fc30ad3c3cba0bd102b873675a6f4cf8ff47aad783e4fac1147339ffae93945d"
 metafile = true
 
 [[files]]
 file = "config/openloader/data/repurposed-structures-better-witch-huts-compat.pw.toml"
-hash = "658c45f1062ca47bfd61c4452ec6103b1cc1641326232cf5bceb65c1a726793b"
+hash = "9766f1e081b617d78969690c00e149eeaa235ff4352ae831d4ed83c5e5d2914b"
 metafile = true
 
 [[files]]
@@ -106,12 +106,12 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "7a06b7203a44d879f81651f5d192933aeac202ca9012fa8e314b7a4560268410"
+hash = "7d29724ac05ef8982475b92f0e77adf4a4830c249f0e8c1515a19777fbf05f09"
 metafile = true
 
 [[files]]
 file = "mods/repurposed-structures-fabric.pw.toml"
-hash = "eac0880a1c7d65c8283228a2aeb9220d19e0b336b2b28bf320bf6cd5ec116041"
+hash = "63535d48075f8f6366d778e6308aec4d7226167503e08077aa4012982b0c462c"
 metafile = true
 
 [[files]]
